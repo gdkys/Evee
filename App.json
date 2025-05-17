@@ -1,0 +1,43 @@
+{
+  "name": "My Example Source",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.8iixyiyywk.c85fkycs8y"
+  ],
+  "apps": [
+    {
+      "name": "EveeSpotify",
+      "bundleIdentifier": "com.8iixyiyywk.c85fkycs8y",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/EQ5qdJ4.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.42.ipa",
+          "size": 81100000,
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2025-05-17T05:14:00+02:00",
+          "localizedDescription": "",
+          "minOSVersion": ""
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
